@@ -1,1 +1,1 @@
-main.pay.txt
+main.pay
